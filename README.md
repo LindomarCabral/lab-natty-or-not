@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/LindomarCabral/lab-natty-or-not/blob/main/ChatGPT Image 25 de out. de 2025, 18_58_14.png" width="600" alt="Natty or Not - O limite entre o humano e a IA">
+</p>
+
+
+
 # 🤖 Natty or Not: A Realidade Gerada Pela IA
 
 ## 📒 Descrição
