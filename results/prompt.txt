@@ -1,0 +1,19 @@
+Prompt utilizado para geração da imagem "Natty or Not":
+
+Crie uma ilustração digital 2D que explore o contraste entre humanidade e inteligência artificial. 
+A cena deve ter uma composição dividida: de um lado, um homem musculoso e realista, representando o 
+"natty" (natural); do outro, um humanoide digital com estrutura metálica e linhas de circuito luminosas, 
+representando o "not" (artificial). 
+
+A parte superior deve conter um título estilizado em tipografia futurista, com tons frios (azul e prata). 
+O fundo deve sugerir uma fusão entre natureza e tecnologia, usando elementos sutis como uma cidade digital 
+de um lado e um ambiente natural do outro.
+
+Estilo: realista com toques de arte conceitual futurista.  
+Iluminação: contrastante, com reflexos metálicos e sombras suaves.  
+Proporção: horizontal, adequada para capa de projeto (README de GitHub).  
+Tema central: “O limite entre o natural e o artificial”.
+
+Ferramenta utilizada: IA generativa (DALL·E via ChatGPT).  
+Data de geração: 25/10/2025.
+Autor: Lindomar Cabral.
