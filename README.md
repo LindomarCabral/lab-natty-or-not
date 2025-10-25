@@ -2,69 +2,67 @@
   <img src="https://github.com/LindomarCabral/lab-natty-or-not/blob/main/ChatGPT Image 25 de out. de 2025, 18_58_14.png" width="600" alt="Natty or Not - O limite entre o humano e a IA">
 </p>
 
+> Fork do repositório oficial da DIO: [digitalinnovationone/lab-natty-or-not](https://github.com/digitalinnovationone/lab-natty-or-not)
 
-
-# 🤖 Natty or Not: A Realidade Gerada Pela IA
+---
 
 ## 📒 Descrição
-Este projeto foi desenvolvido como parte do **bootcamp Nexa - Fundamentos de IA Generativa com Bedrock**, promovido pela **DIO (Digital Innovation One)**.  
-O objetivo é explorar o potencial das **IAs Generativas** na criação de conteúdos realistas, refletindo sobre o quanto é possível enganar o olhar humano ao diferenciar algo "natty" (natural) de algo criado por Inteligência Artificial.
 
-O projeto apresenta uma experiência interativa que demonstra como imagens e textos podem ser gerados por IA para parecerem totalmente humanos — desafiando a percepção e o senso crítico do observador.
+Este projeto foi desenvolvido como parte do **Bootcamp Nexa - Fundamentos de IA Generativa com Bedrock**, promovido pela **DIO (Digital Innovation One)**.  
+Inspirado na tendência *"Natty or Not"*, ele explora a fronteira entre o humano e o artificial por meio de **imagens geradas por Inteligência Artificial**, buscando representar visualmente o equilíbrio entre o natural e o digital.
 
 ---
 
 ## 🤖 Tecnologias Utilizadas
-- **Amazon Bedrock** → para gerar textos e imagens com modelos fundacionais (como Claude, Titan e Stable Diffusion).  
-- **ChatGPT (OpenAI GPT-5)** → para criação e revisão de textos descritivos e prompts complexos.  
-- **Hugging Face** → para testes de modelos alternativos open-source.  
-- **GitHub + Markdown** → versionamento e documentação do projeto.  
-- **Canva / Fotor / Leonardo.ai** → para ajustes estéticos nas imagens geradas.  
+
+- **ChatGPT (DALL·E)** → para geração da imagem conceitual.  
+- **Git e GitHub** → para versionamento e publicação do projeto.  
+- **Markdown** → para documentação e estruturação do README.  
 
 ---
 
-## 🧠 Processo de Criação
-1. **Definição do tema:** escolhi representar o contraste entre “realidade e ficção” no contexto tecnológico — inspirando-se no conceito “Natty or Not”, popular no fisiculturismo.  
-2. **Geração de conteúdo:** utilizei prompts personalizados no **Amazon Bedrock** para gerar textos e imagens com aparências humanas e contextos reais.  
-3. **Análise de realismo:** comparei resultados gerados por diferentes modelos (Claude e Stable Diffusion) para avaliar qual entrega maior verossimilhança.  
-4. **Curadoria e ajustes:** refinei manualmente os conteúdos, equilibrando coerência, realismo e criatividade.  
-5. **Publicação:** versionei o projeto no meu GitHub e organizei este README seguindo o template proposto pela DIO.
+## 🧐 Processo de Criação
+
+1. **Definição do conceito:**  
+   A ideia foi criar uma imagem que mostrasse o contraste entre um corpo humano natural e uma entidade artificial — uma metáfora visual para o tema *“Natty or Not”*.  
+
+2. **Geração via IA:**  
+   O prompt foi elaborado com detalhes de iluminação, textura e contraste entre elementos naturais e digitais.  
+   A IA generativa (DALL·E via ChatGPT) foi utilizada para criar a imagem final.
+
+3. **Documentação dos resultados:**  
+   Todos os arquivos de saída (imagens, prints e prompt usado) foram organizados na pasta [`/results`](./results).
 
 ---
 
 ## 🚀 Resultados
-- Criação de imagens hiper-realistas de pessoas e cenários que poderiam facilmente ser confundidas com fotografias reais.  
-- Geração de descrições textuais que aparentam ter sido escritas por um redator humano.  
-- Reflexão prática sobre o poder das IAs generativas na criação de narrativas visuais e escritas.  
 
-🖼️ **Exemplo de resultado (IA gerada):**  
-> “Um desenvolvedor observando linhas de código em uma tela refletida nos seus óculos, enquanto a cidade futurista brilha ao fundo — o limite entre o humano e o artificial se dissolve.”
+A imagem final representa **o encontro entre força humana e tecnologia**, em uma estética futurista.  
+Todos os resultados estão disponíveis na pasta [`/results`](./results):
+
+- 🖼️ [Imagem gerada pela IA](./results/natty_or_not.png)
+- 💬 [Prompt utilizado](./results/prompt.txt)
+- 📸 [Prints do processo (opcional)](./results)
 
 ---
 
 ## 💭 Reflexão
-Criar algo "natty" com IA é um paradoxo fascinante.  
-A linha entre o que é natural e o que é gerado artificialmente está cada vez mais tênue.  
-Como desenvolvedor de sistemas e estudioso em **Engenharia de Software**, vejo as IAs Generativas não como substitutas da criatividade humana, mas como **ferramentas de ampliação da capacidade criativa**.  
 
-O desafio não é mais identificar o que é "real" — mas **entender o propósito** por trás da criação.
-
----
-
-### ✨ Autor
-**Lindomar dos Santos Cabral**  
-📍 Recife - PE | 👨‍💻 Desenvolvedor de Sistemas | 🎓 Pós em Engenharia de Software  
-🔗 [LinkedIn](https://www.linkedin.com/in/lindomarcabral)  
-🔗 [GitHub](https://github.com/LindomarCabral)
-
----
-
+Criar algo “**natty**” com IA é um paradoxo interessante.  
+Mesmo sendo uma criação artificial, há sempre uma **intenção humana por trás do prompt**, o que torna o resultado uma colaboração entre humano e máquina.  
+Esse projeto mostrou o potencial das IAs generativas como ferramentas de criatividade, mas também o quanto o *toque humano* continua essencial.
 
 ---
 
 ## 📚 Referência
-Este projeto foi desenvolvido a partir do repositório original da DIO:  
-🔗 [https://github.com/digitalinnovationone/lab-natty-or-not](https://github.com/digitalinnovationone/lab-natty-or-not)
+
+- 🔗 Repositório original da DIO: [digitalinnovationone/lab-natty-or-not](https://github.com/digitalinnovationone/lab-natty-or-not)  
+- 🚀 Bootcamp: **Nexa - Fundamentos de IA Generativa com Bedrock**  
+- 👨‍💻 Autor: [Lindomar Cabral](https://github.com/LindomarCabral)
+
+---
+
+🧠 *Projeto desenvolvido por Lindomar Cabral como parte do Bootcamp da DIO — explorando o poder criativo da Inteligência Artificial.*
 
 
 #DIO #NattyOrNot #IA #AmazonBedrock #BootcampNexa #IAGenerativa
