@@ -1,51 +1,56 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 🤖 Natty or Not: A Realidade Gerada Pela IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto foi desenvolvido como parte do **bootcamp Nexa - Fundamentos de IA Generativa com Bedrock**, promovido pela **DIO (Digital Innovation One)**.  
+O objetivo é explorar o potencial das **IAs Generativas** na criação de conteúdos realistas, refletindo sobre o quanto é possível enganar o olhar humano ao diferenciar algo "natty" (natural) de algo criado por Inteligência Artificial.
+
+O projeto apresenta uma experiência interativa que demonstra como imagens e textos podem ser gerados por IA para parecerem totalmente humanos — desafiando a percepção e o senso crítico do observador.
+
+---
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **Amazon Bedrock** → para gerar textos e imagens com modelos fundacionais (como Claude, Titan e Stable Diffusion).  
+- **ChatGPT (OpenAI GPT-5)** → para criação e revisão de textos descritivos e prompts complexos.  
+- **Hugging Face** → para testes de modelos alternativos open-source.  
+- **GitHub + Markdown** → versionamento e documentação do projeto.  
+- **Canva / Fotor / Leonardo.ai** → para ajustes estéticos nas imagens geradas.  
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+---
+
+## 🧠 Processo de Criação
+1. **Definição do tema:** escolhi representar o contraste entre “realidade e ficção” no contexto tecnológico — inspirando-se no conceito “Natty or Not”, popular no fisiculturismo.  
+2. **Geração de conteúdo:** utilizei prompts personalizados no **Amazon Bedrock** para gerar textos e imagens com aparências humanas e contextos reais.  
+3. **Análise de realismo:** comparei resultados gerados por diferentes modelos (Claude e Stable Diffusion) para avaliar qual entrega maior verossimilhança.  
+4. **Curadoria e ajustes:** refinei manualmente os conteúdos, equilibrando coerência, realismo e criatividade.  
+5. **Publicação:** versionei o projeto no meu GitHub e organizei este README seguindo o template proposto pela DIO.
+
+---
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- Criação de imagens hiper-realistas de pessoas e cenários que poderiam facilmente ser confundidas com fotografias reais.  
+- Geração de descrições textuais que aparentam ter sido escritas por um redator humano.  
+- Reflexão prática sobre o poder das IAs generativas na criação de narrativas visuais e escritas.  
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+🖼️ **Exemplo de resultado (IA gerada):**  
+> “Um desenvolvedor observando linhas de código em uma tela refletida nos seus óculos, enquanto a cidade futurista brilha ao fundo — o limite entre o humano e o artificial se dissolve.”
 
-### Exemplos e Insigths
+---
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+## 💭 Reflexão
+Criar algo "natty" com IA é um paradoxo fascinante.  
+A linha entre o que é natural e o que é gerado artificialmente está cada vez mais tênue.  
+Como desenvolvedor de sistemas e estudioso em **Engenharia de Software**, vejo as IAs Generativas não como substitutas da criatividade humana, mas como **ferramentas de ampliação da capacidade criativa**.  
 
-## Links Interessantes
+O desafio não é mais identificar o que é "real" — mas **entender o propósito** por trás da criação.
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+---
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+### ✨ Autor
+**Lindomar dos Santos Cabral**  
+📍 Recife - PE | 👨‍💻 Desenvolvedor de Sistemas | 🎓 Pós em Engenharia de Software  
+🔗 [LinkedIn](https://www.linkedin.com/in/lindomarcabral)  
+🔗 [GitHub](https://github.com/LindomarCabral)
+
+---
+
+#DIO #NattyOrNot #IA #AmazonBedrock #BootcampNexa #IAGenerativa
