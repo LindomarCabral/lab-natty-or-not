@@ -59,4 +59,12 @@ O desafio não é mais identificar o que é "real" — mas **entender o propósi
 
 ---
 
+
+---
+
+## 📚 Referência
+Este projeto foi desenvolvido a partir do repositório original da DIO:  
+🔗 [https://github.com/digitalinnovationone/lab-natty-or-not](https://github.com/digitalinnovationone/lab-natty-or-not)
+
+
 #DIO #NattyOrNot #IA #AmazonBedrock #BootcampNexa #IAGenerativa
